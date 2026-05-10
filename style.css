@@ -86,3 +86,18 @@ input{
     justify-content: center;
     gap: 1%;
 }
+.section6{
+    height: 100vh;
+    background-image: url(image\ copy\ 4.png);
+    background-position: center;
+
+}
+.lll{
+    width: 400px;
+}
+.lastform{
+    margin-left: 700px;
+    padding: 10px;
+    background-color: white;
+    background-size: cover;
+}
