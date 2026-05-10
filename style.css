@@ -36,7 +36,7 @@
 .likepapa{
     display: flex;
     gap: 5%;
-    margin-left: 200px;
+    justify-content: center;
 }
 .section2{
     margin: 200px;
@@ -54,4 +54,20 @@ input{
 }
 .section2div2{
     margin: 100px;
+}
+.like{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.homes{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.Browse{
+    margin-left: 337px;
+}
+.h2{
+    margin-left: -300px;
 }
