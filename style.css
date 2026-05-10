@@ -76,3 +76,13 @@ input{
     gap: 3%;
     justify-content: center;
 }
+.secondbb{
+    padding: 10px 20px;
+    background-color: rgb(255, 119, 0);
+    color: white;
+}
+.section2div5{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+}
