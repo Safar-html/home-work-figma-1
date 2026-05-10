@@ -106,7 +106,13 @@ input{
     justify-content: center;
     gap: 2%;
 }
+.section7div2{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
 .section7{
     background-color: rgb(69, 66, 120);
     color: white;
+    padding: 20px;
 }
