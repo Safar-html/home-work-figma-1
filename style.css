@@ -101,3 +101,12 @@ input{
     background-color: white;
     background-size: cover;
 }
+.section7div1{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.section7{
+    background-color: rgb(69, 66, 120);
+    color: white;
+}
