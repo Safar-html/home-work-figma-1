@@ -71,3 +71,8 @@ input{
 .h2{
     margin-left: -300px;
 }
+.images{
+    display: flex;
+    gap: 3%;
+    justify-content: center;
+}
